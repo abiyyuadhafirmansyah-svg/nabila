@@ -1,0 +1,6 @@
+{
+  "name": "NutriFit",
+  "description": "Aplikasi pendamping nutrisi cerdas, kalkulator defisit kalori, pelacak makronutrisi, pemindai piring AI, dan perencana menu diet seimbang.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
